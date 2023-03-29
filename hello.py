@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //For command line git tutorial
 //First: GitHub modification
 //Seond: Local repository modification
